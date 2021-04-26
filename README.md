@@ -1,2 +1,2 @@
 # noteapp
-As I am not skilled in react.js I developed it using basic javascript
+ A simple note taking app which is developed using basic javascript
